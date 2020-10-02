@@ -1,6 +1,6 @@
 # Project team members listed below will appear on the /team page
 
-- name: Pooyan Jamshidi
+- name: Pooyan Jamshidi (USC)
   role: PI # Will appear next to name
   image: assets/img/pjamshidi.jpg # Can be external link
   description: > # Can be Markdown
@@ -10,7 +10,7 @@
   github: pooyanjamshidi
   twitter: pooyanjamshidi
 
-- name: Bradley Schmerl
+- name: Bradley Schmerl (CMU)
   role: Co-I
   image: assets/img/bschmerl.jpg # Can be external link
   description: > # Can be Markdown
@@ -18,14 +18,14 @@
   email: schmerl@cs.cmu.edu
   github: schmerl
 
-- name: David Garlan
+- name: David Garlan (CMU)
   role: Co-I
   image: assets/img/dgarlan.jpg # Can be external link
   description: > # Can be Markdown
     [Software Architecture](https://www.cs.cmu.edu/~garlan/)
   email: garlan@cs.cmu.edu
 
-- name: Javier Camara
+- name: Javier Camara (York)
   role: Collaborator
   image: assets/img/jcamara.jpg # Can be external link
   description: > # Can be Markdown
@@ -33,14 +33,14 @@
   email: javier.camaramoreno@york.ac.uk
   github: javier-camara
 
-- name: Matt DeMinico 
+- name: Matt DeMinico  (NASA GRC)
   role: Co-I
   image: assets/img/mdeminico.jpg # Can be external link
   description: > # Can be Markdown
     Robotics
   email: mathew.r.deminico@nasa.gov
 
-- name: Jianhai Su
+- name: Jianhai Su (USC)
   role: Graduate Student
   image: assets/img/jsu.jpg # Can be external link
   description: > # Can be Markdown
@@ -48,14 +48,14 @@
   email: suj@email.sc.edu
   github: oceank
 
-- name: Ellen Czaplinski 
+- name: Ellen Czaplinski (UArk)
   role: Science Consultant
   image: assets/img/eczaplinski.jpg # Can be external link
   description: > # Can be Markdown
     [Exploration Science](https://scholar.google.com/citations?user=IU4HmA4AAAAJ&hl=en)
   email: ecczapli@uark.edu
 
-- name: Katherine Dzurilla 
+- name: Katherine Dzurilla (UArk)
   role: Science Consultant
   image: assets/img/kdzurilla.jpg # Can be external link
   description: > # Can be Markdown
