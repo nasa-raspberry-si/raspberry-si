@@ -47,6 +47,14 @@
     [Reinfoircement Learning](https://oceank.github.io/)
   email: suj@email.sc.edu
   github: oceank
+  
+- name: Md Abir Hossen (USC)
+  role: Graduate Student
+  image: assets/img/abir.jpg # Can be external link
+  description: > # Can be Markdown
+    [Autonomous systems](https://cse.sc.edu/~mhossen/)
+  email: mhossen@email.sc.edu
+  github: abirhossen786
 
 - name: Ellen Czaplinski (UArk)
   role: Science Consultant
