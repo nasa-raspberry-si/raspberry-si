@@ -40,6 +40,15 @@
     Robotics
   email: mathew.r.deminico@nasa.gov
 
+- name: Sonam Kharde (USC)
+  role: Postdoc # Will appear next to name
+  image: assets/img/kharde.jpg # Can be external link
+  description: > # Can be Markdown
+    [Control + Causal AI](https://sites.google.com/ee.vjti.ac.in/kharadesonam/home)
+  # orcid: 0000-0000-0000-0000
+  email: skharade@mailbox.sc.edu
+  github: srkharade
+
 - name: Jianhai Su (USC)
   role: Graduate Student
   image: assets/img/jsu.jpg # Can be external link
